@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\saral\\Unreal Projects\\Survival-At-Dusk\\Survival_at_Dusk\\Source\\Survival_at_Dusk\\Survival_at_Dusk.Build.cs",
+		"C:\\Users\\saral\\Unreal Projects\\Survival-At-Dusk\\Survival_at_Dusk\\Source\\Survival_at_Dusk.Target.cs",
+		"C:\\Users\\saral\\Unreal Projects\\Survival-At-Dusk\\Survival_at_Dusk\\Source\\Survival_at_DuskEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

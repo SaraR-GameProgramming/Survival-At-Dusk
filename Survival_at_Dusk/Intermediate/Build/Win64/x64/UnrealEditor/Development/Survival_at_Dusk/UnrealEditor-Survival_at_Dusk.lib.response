@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Survival_at_Dusk.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\Survival_at_DuskEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_Dusk.init.gen.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_DuskCharacter.gen.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_DuskGameMode.gen.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_Dusk.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_DuskCharacter.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Survival_at_DuskGameMode.cpp.obj"
+"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\Default.rc2.res"
+/OUT:"C:\Users\saral\Unreal Projects\Survival-At-Dusk\Survival_at_Dusk\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival_at_Dusk\UnrealEditor-Survival_at_Dusk.lib"

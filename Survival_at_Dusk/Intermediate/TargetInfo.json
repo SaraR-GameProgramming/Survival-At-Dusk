@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Survival_at_Dusk",
+			"Path": "C:\\Users\\saral\\Unreal Projects\\Survival-At-Dusk\\Survival_at_Dusk\\Source\\Survival_at_Dusk.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Survival_at_DuskEditor",
+			"Path": "C:\\Users\\saral\\Unreal Projects\\Survival-At-Dusk\\Survival_at_Dusk\\Source\\Survival_at_DuskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

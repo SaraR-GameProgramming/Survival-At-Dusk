@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\saral\\unreal projects\\survival-at-dusk\\survival_at_dusk\\intermediate\\build\\win64\\unrealeditor\\inc\\survival_at_dusk\\uht\\survival_at_dusk.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\saral\\unreal projects\\survival-at-dusk\\survival_at_dusk\\intermediate\\build\\win64\\x64\\survival_at_duskeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\saral\\unreal projects\\survival-at-dusk\\survival_at_dusk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survival_at_dusk\\definitions.survival_at_dusk.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
